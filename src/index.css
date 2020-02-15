@@ -1,0 +1,42 @@
+
+.form{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 200px;
+    border: 10px solid black;
+    border-radius: 12px;
+    padding-bottom: 30px;
+}
+
+.div{
+    margin-top: 30px;
+}
+
+.label{
+    margin-left: 20px;
+}
+
+
+.input{
+    margin-left: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 20px;
+}
+.input2{
+    margin-left: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 50px;
+}
+
+.select{
+    margin-left: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 20px
+}
+
+.option{
+    font-size: 12px;
+}
